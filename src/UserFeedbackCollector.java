@@ -27,7 +27,10 @@ public class UserFeedbackCollector {
         System.out.println("Rate this HR-manager (0-10):");
         Integer hrRateByUser = Integer.valueOf(scanner.next());
         System.out.println("Leave a comment about communication with this HR-manager:");
+        scanner.nextLine();
         String userCommentAboutHr = scanner.nextLine();
+
+
         HrProfile hrProfile = new HrProfile(hrCompanyName, hrFirstName, hrLastName,hrEmail);
         HrRateSystem hrRateSystem = new HrRateSystem (hrRateByUser, userCommentAboutHr);
 
