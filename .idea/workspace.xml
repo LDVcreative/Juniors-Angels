@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="886e6cad-26b5-4da0-a0c7-f6c5abd3635b" name="Changes" comment="Added constructors to all classes.&#10;Added Scanner and sout to UserFeedbackCollector." />
+    <list default="true" id="886e6cad-26b5-4da0-a0c7-f6c5abd3635b" name="Changes" comment="Added constructors to all classes.&#10;Added Scanner and sout to UserFeedbackCollector.&#10;Scanner nextLine fixed">
+      <change beforePath="$PROJECT_DIR$/src/UserFeedbackCollector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UserFeedbackCollector.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664138457234</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added constructors to all classes.&#10;Added Scanner and sout to UserFeedbackCollector.&#10;Scanner nextLine fixed">
+      <created>1664138956892</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1664138956892</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -104,6 +113,7 @@
     <MESSAGE value="start screen" />
     <MESSAGE value="Three classes added: CompanyProfile, HRProfile, HrRateSystem" />
     <MESSAGE value="Added constructors to all classes.&#10;Added Scanner and sout to UserFeedbackCollector." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added constructors to all classes.&#10;Added Scanner and sout to UserFeedbackCollector." />
+    <MESSAGE value="Added constructors to all classes.&#10;Added Scanner and sout to UserFeedbackCollector.&#10;Scanner nextLine fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added constructors to all classes.&#10;Added Scanner and sout to UserFeedbackCollector.&#10;Scanner nextLine fixed" />
   </component>
 </project>
