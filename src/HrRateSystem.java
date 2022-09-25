@@ -1,5 +1,8 @@
 public class HrRateSystem {
 
+
+
+
     private final int hrRateByUser; //Manager evaluation by the user
     private final String userCommentAboutHr; //User comment about communication with the manager
 

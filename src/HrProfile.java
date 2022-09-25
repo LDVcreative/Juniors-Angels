@@ -7,31 +7,27 @@ public class HrProfile extends CompanyProfile {
 
 
     public HrProfile(String hrCompanyName,
-                     String hrLastName,
                      String hrFirstName,
+                     String hrLastName,
                      String hrEmail) {
         super(hrCompanyName);
-        this.hrLastName = hrLastName;
         this.hrFirstName = hrFirstName;
+        this.hrLastName = hrLastName;
         this.hrEmail = hrEmail;
     }
 
 
     //Getters, toString:
 
-
     public String getHrLastName() {
         return hrLastName;
     }
-
     public String getHrFirstName() {
         return hrFirstName;
     }
-
     public String getHrEmail() {
         return hrEmail;
     }
-
     @Override
     public String toString() {
         return "HrProfile{" +
