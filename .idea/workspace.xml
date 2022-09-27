@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="886e6cad-26b5-4da0-a0c7-f6c5abd3635b" name="Changes" comment="Added constructors to all classes.&#10;Added Scanner and sout to UserFeedbackCollector.&#10;Scanner nextLine fixed">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/UserFeedbackCollector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UserFeedbackCollector.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,7 +90,21 @@
       <option name="project" value="LOCAL" />
       <updated>1664138956892</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added constructors to all classes.&#10;Added Scanner and sout to UserFeedbackCollector.&#10;Scanner nextLine fixed">
+      <created>1664138989493</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1664138989493</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added constructors to all classes.&#10;Added Scanner and sout to UserFeedbackCollector.&#10;Scanner nextLine fixed">
+      <created>1664139003883</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1664139003883</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
